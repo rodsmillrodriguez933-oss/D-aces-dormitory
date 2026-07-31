@@ -1,2 +1,3 @@
 # D-aces-dormitory
-BSIT Group Project Hotdog
+BSIT Group Project
+Noo ni juelle
